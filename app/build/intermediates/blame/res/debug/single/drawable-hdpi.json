@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi/frame_bg.9.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/frame_bg.9.png"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi/login_button_press.9.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/login_button_press.9.png"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi/login_button_nor.9.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/login_button_nor.9.png"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi/edit_over.9.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/edit_over.9.png"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi/edit_input.9.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/edit_input.9.png"
+    }
+]

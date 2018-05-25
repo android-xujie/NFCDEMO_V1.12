@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cut_line.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/cut_line.png"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_input.xml",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/edittext_input.xml"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_button_selector.xml",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/login_button_selector.xml"
+    },
+    {
+        "merged": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/yangliu/Downloads/AndroidCoding/NFCDEMO_V1.12/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

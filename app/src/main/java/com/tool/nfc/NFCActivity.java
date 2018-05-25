@@ -22,7 +22,7 @@ public class NFCActivity extends BaseActivity {
 		pendingIntent = PendingIntent.getActivity(this, 0, new Intent(this,
 				getClass()).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), 0);
 
-		// �?��nfc是否�?��
+		// �?��nfc是否�?��
 		checkNfc();
 		onNewIntent(getIntent());
 
@@ -36,6 +36,7 @@ public class NFCActivity extends BaseActivity {
 			@Override
 			public void onClick(View v) {
 				if (checkBlock()) {
+					//ceshiabc
 					MifareClassicCard mifareClassicCard = new MifareClassicCard(
 							mifareClassic);
 					int block = Integer.parseInt(blockIdEditText.getText()
@@ -126,7 +127,7 @@ public class NFCActivity extends BaseActivity {
 		} else {
 			if (tag != null) {
 
-				// 获取卡类型，根据卡类型可推出卡协�?
+				// 获取卡类型，根据卡类型可推出卡协�?
 				String[] techList = tag.getTechList();
 				StringBuffer techString = new StringBuffer();
 				for (int i = 0; i < techList.length; i++) {
