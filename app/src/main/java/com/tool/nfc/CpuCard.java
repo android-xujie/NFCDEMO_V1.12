@@ -311,7 +311,6 @@ public class CpuCard {
 
 		/**
 		 * 查询名字查询
-		 * 
 		 * @param name
 		 * @return
 		 */
